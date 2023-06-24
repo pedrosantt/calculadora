@@ -1,4 +1,8 @@
 # Calculadora
+# Grupo:
+#Kauan Nunes
+#Pedro Justiniano
+#Ricardo Amorin
 
 Aplicativo de uma calculadora simples para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade
 
